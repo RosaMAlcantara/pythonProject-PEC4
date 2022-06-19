@@ -1,4 +1,4 @@
-# PythonProject-PEC4\
+# PythonProject-PEC4
 **Práctica final de Programación para la Ciencia de datos**\
   Se trabaja pra una empresa que presenta soluciones **Data Science** para todo tipo de proyectos. El equipo directivo quiere centrarse en los próximos años en el incipiente mundo de e-sports y ha decidido empezar con uno que no les suena tan extraño, el FIFA.
 
