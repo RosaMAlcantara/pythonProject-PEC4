@@ -4,7 +4,9 @@
 
   Se ha pedido que se desarrolle unos análisis preliminares sobre los mismos. Estos datos se encuentran en la carpeta data que cuelga de PEC4. También se encuentran los tests que se han pasado y los ficheros donde se encuentran la lógica de las peticiones del equipo directivo. El proyecto está bastante avanzado pero hay partes que se encuentran, a día de hoy, en proceso de desarrollo.
   
-  El entorno virtual, necesario para ejecutar las funciones, no es posible subirlo, debido a la gran cantidad de ficheros que contiene, este, junto con los .py se subirán al modo tradicional, al entorno de Entrega y registro de EC.
+  El entorno virtual, necesario para ejecutar las funciones, no es posible subirlo, debido a la gran cantidad de ficheros que contiene, este, junto con los .py se subirán al modo tradicional, al entorno de Entrega y registro de EC. 
+  
+  	Cuenta con dos carpetas, una donde se encuentra el entorno virtual(entorno), generado en Python 3.8 y otra, donde está el código PEC4. 
   
  **Nota Personal**\
  Me hubíera gustado tener más tiempo y dejarlo todo terminado y pulido, pero hasta aqui es donde he podido llegar.
