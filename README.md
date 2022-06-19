@@ -6,7 +6,7 @@
   
   El entorno virtual, necesario para ejecutar las funciones, no es posible subirlo, debido a la gran cantidad de ficheros que contiene, este, junto con los .py se subirán al modo tradicional, al entorno de Entrega y registro de EC. 
   
-  	Cuenta con dos carpetas, una donde se encuentra el entorno virtual(entorno), generado en Python 3.8 y otra, donde está el código PEC4. 
+  	Cuenta con dos carpetas, una donde se encuentra el entorno virtual(entorno), generado en Python 3.8 y otra, donde está el código de la PEC4. 
   
  **Nota Personal**\
  Me hubíera gustado tener más tiempo y dejarlo todo terminado y pulido, pero hasta aqui es donde he podido llegar.
