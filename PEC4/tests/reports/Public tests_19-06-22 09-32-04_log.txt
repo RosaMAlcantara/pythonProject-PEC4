@@ -1,0 +1,50 @@
+2022-06-19 09:32:05.873061 : /home/datasci/Desktop/pythonProject/PEC4/functions.py:53: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+                               merged_df = data_f.append(data_m)
+                             
+2022-06-19 09:32:06.273473 : /home/datasci/Desktop/pythonProject/PEC4/functions.py:53: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+                               merged_df = data_f.append(data_m)
+                             
+2022-06-19 09:32:06.806443 : /home/datasci/Desktop/pythonProject/PEC4/functions.py:53: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+                               merged_df = data_f.append(data_m)
+                             
+2022-06-19 09:32:07.371114 : /home/datasci/Desktop/pythonProject/PEC4/functions.py:53: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+                               merged_df = data_f.append(data_m)
+                             
+2022-06-19 09:32:07.833045 : /home/datasci/Desktop/pythonProject/PEC4/functions.py:53: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+                               merged_df = data_f.append(data_m)
+                             
+2022-06-19 09:32:08.273599 : /home/datasci/Desktop/pythonProject/PEC4/functions.py:53: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+                               merged_df = data_f.append(data_m)
+                             
+2022-06-19 09:32:08.806047 : /home/datasci/Desktop/pythonProject/PEC4/functions.py:53: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+                               merged_df = data_f.append(data_m)
+                             
+2022-06-19 09:32:09.455657 : /home/datasci/Desktop/pythonProject/PEC4/functions.py:53: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+                               merged_df = data_f.append(data_m)
+                             
+2022-06-19 09:32:09.955259 : /home/datasci/Desktop/pythonProject/PEC4/functions.py:53: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+                               merged_df = data_f.append(data_m)
+                             
+2022-06-19 09:32:10.911751 : /home/datasci/Desktop/pythonProject/PEC4/functions.py:53: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+                               merged_df = data_f.append(data_m)
+                             
+2022-06-19 09:32:11.942760 : /home/datasci/Desktop/pythonProject/PEC4/functions.py:53: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+                               merged_df = data_f.append(data_m)
+                             
+2022-06-19 09:32:13.075574 : /home/datasci/Desktop/pythonProject/PEC4/functions.py:53: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+                               merged_df = data_f.append(data_m)
+                             
+2022-06-19 09:32:13.274460 : player_positions
+2022-06-19 09:32:13.894003 : /home/datasci/Desktop/pythonProject/PEC4/functions.py:53: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+                               merged_df = data_f.append(data_m)
+                             
+2022-06-19 09:32:14.617875 : /home/datasci/Desktop/pythonProject/PEC4/functions.py:53: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+                               merged_df = data_f.append(data_m)
+                             
+2022-06-19 09:32:15.372515 : /home/datasci/Desktop/pythonProject/PEC4/functions.py:53: FutureWarning: The frame.append method is deprecated and will be removed from pandas in a future version. Use pandas.concat instead.
+                               merged_df = data_f.append(data_m)
+                             
+2022-06-19 09:33:08.101494 : short_name
+2022-06-19 09:33:08.101526 : gender
+2022-06-19 09:33:08.101532 : one
+2022-06-19 09:33:08.124414 : one
